@@ -1,0 +1,13 @@
+wandb_version: 1
+
+alpha:
+  value: 0.001
+hidden_layer_sizes:
+  value:
+  - 50
+  - 50
+  - 25
+learning_rate:
+  value: invscaling
+learning_rate_init:
+  value: 0.0001

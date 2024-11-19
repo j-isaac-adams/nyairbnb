@@ -1,0 +1,154 @@
+2024-11-12 16:09:57,884 INFO    MainThread:97982 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2024-11-12 16:09:57,884 INFO    MainThread:97982 [wandb_setup.py:_flush():79] Configure stats pid to 97982
+2024-11-12 16:09:57,884 INFO    MainThread:97982 [wandb_setup.py:_flush():79] Loading settings from /Users/jiadams/.config/wandb/settings
+2024-11-12 16:09:57,884 INFO    MainThread:97982 [wandb_setup.py:_flush():79] Loading settings from /Users/jiadams/nyairbnb/src/wandb/settings
+2024-11-12 16:09:57,884 INFO    MainThread:97982 [wandb_setup.py:_flush():79] Loading settings from environment variables: {}
+2024-11-12 16:09:57,884 INFO    MainThread:97982 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-12 16:09:57,884 INFO    MainThread:97982 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-12 16:09:57,884 INFO    MainThread:97982 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-12 16:09:57,884 INFO    MainThread:97982 [wandb_init.py:_log_setup():533] Logging user logs to /Users/jiadams/nyairbnb/src/wandb/run-20241112_160957-qvk19vfl/logs/debug.log
+2024-11-12 16:09:57,884 INFO    MainThread:97982 [wandb_init.py:_log_setup():534] Logging internal logs to /Users/jiadams/nyairbnb/src/wandb/run-20241112_160957-qvk19vfl/logs/debug-internal.log
+2024-11-12 16:09:57,884 INFO    MainThread:97982 [wandb_init.py:init():619] calling init triggers
+2024-11-12 16:09:57,884 INFO    MainThread:97982 [wandb_init.py:init():626] wandb.init called with sweep_config: {}
+config: {}
+2024-11-12 16:09:57,884 INFO    MainThread:97982 [wandb_init.py:init():644] re-initializing run, found existing run on stack: 7n4s1ej9
+2024-11-12 16:09:57,885 INFO    MainThread:97982 [wandb_run.py:_finish():2146] finishing run ablaze/New york/7n4s1ej9
+2024-11-12 16:09:57,885 ERROR   MainThread:97982 [jupyter.py:save_history():451] Run pip install nbformat to save notebook history
+2024-11-12 16:09:57,885 INFO    MainThread:97982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-12 16:09:57,885 INFO    MainThread:97982 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2024-11-12 16:09:57,886 INFO    MainThread:97982 [wandb_run.py:_atexit_cleanup():2414] got exitcode: 0
+2024-11-12 16:09:57,886 INFO    MainThread:97982 [wandb_run.py:_restore():2396] restore
+2024-11-12 16:09:57,886 INFO    MainThread:97982 [wandb_run.py:_restore():2402] restore done
+2024-11-12 16:10:00,349 INFO    MainThread:97982 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2024-11-12 16:10:00,349 INFO    MainThread:97982 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2024-11-12 16:10:00,353 INFO    MainThread:97982 [wandb_run.py:_footer_sync_info():3922] logging synced files
+2024-11-12 16:10:00,355 INFO    MainThread:97982 [wandb_init.py:init():669] starting backend
+2024-11-12 16:10:00,355 INFO    MainThread:97982 [wandb_init.py:init():673] sending inform_init request
+2024-11-12 16:10:00,356 INFO    MainThread:97982 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-11-12 16:10:00,356 INFO    MainThread:97982 [wandb_init.py:init():686] backend started and connected
+2024-11-12 16:10:00,358 INFO    MainThread:97982 [wandb_run.py:_label_probe_notebook():1341] probe notebook
+2024-11-12 16:10:00,358 INFO    MainThread:97982 [wandb_init.py:init():781] updated telemetry
+2024-11-12 16:10:00,393 INFO    MainThread:97982 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-12 16:10:00,959 INFO    MainThread:97982 [wandb_init.py:init():867] starting run threads in backend
+2024-11-12 16:10:01,032 INFO    MainThread:97982 [wandb_run.py:_console_start():2451] atexit reg
+2024-11-12 16:10:01,033 INFO    MainThread:97982 [wandb_run.py:_redirect():2299] redirect: wrap_raw
+2024-11-12 16:10:01,033 INFO    MainThread:97982 [wandb_run.py:_redirect():2364] Wrapping output streams.
+2024-11-12 16:10:01,033 INFO    MainThread:97982 [wandb_run.py:_redirect():2389] Redirects installed.
+2024-11-12 16:10:01,033 INFO    MainThread:97982 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-12 16:10:01,619 INFO    MainThread:97982 [pyagent.py:run():322] Starting sweep agent: entity=None, project=None, count=None
+2024-11-12 16:10:02,077 WARNING MsgRouterThr:97982 [router.py:message_loop():75] message_loop has been closed
+2024-11-12 16:10:03,170 INFO    Thread-8 (_run_job):97982 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2024-11-12 16:10:03,170 INFO    Thread-8 (_run_job):97982 [wandb_setup.py:_flush():79] Configure stats pid to 97982
+2024-11-12 16:10:03,170 INFO    Thread-8 (_run_job):97982 [wandb_setup.py:_flush():79] Loading settings from /Users/jiadams/.config/wandb/settings
+2024-11-12 16:10:03,170 INFO    Thread-8 (_run_job):97982 [wandb_setup.py:_flush():79] Loading settings from /Users/jiadams/nyairbnb/src/wandb/settings
+2024-11-12 16:10:03,170 INFO    Thread-8 (_run_job):97982 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'New york', 'entity': 'ablaze', 'root_dir': '/Users/jiadams/nyairbnb/src', 'sweep_id': 'dbn5ruk3', 'run_id': 'l9aocukp', 'sweep_param_path': '/Users/jiadams/nyairbnb/src/wandb/sweep-dbn5ruk3/config-l9aocukp.yaml'}
+2024-11-12 16:10:03,170 INFO    Thread-8 (_run_job):97982 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-12 16:10:03,170 INFO    Thread-8 (_run_job):97982 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-12 16:10:03,171 INFO    Thread-8 (_run_job):97982 [wandb_init.py:_log_setup():533] Logging user logs to /Users/jiadams/nyairbnb/src/wandb/run-20241112_161003-l9aocukp/logs/debug.log
+2024-11-12 16:10:03,171 INFO    Thread-8 (_run_job):97982 [wandb_init.py:_log_setup():534] Logging internal logs to /Users/jiadams/nyairbnb/src/wandb/run-20241112_161003-l9aocukp/logs/debug-internal.log
+2024-11-12 16:10:03,171 INFO    Thread-8 (_run_job):97982 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x12607e720>
+2024-11-12 16:10:03,171 INFO    Thread-8 (_run_job):97982 [wandb_init.py:init():619] calling init triggers
+2024-11-12 16:10:03,172 INFO    Thread-8 (_run_job):97982 [wandb_init.py:init():626] wandb.init called with sweep_config: {'alpha': 0.01, 'hidden_layer_sizes': [100, 50], 'learning_rate': 'invscaling', 'learning_rate_init': 0.0001}
+config: {}
+2024-11-12 16:10:03,172 INFO    Thread-8 (_run_job):97982 [wandb_init.py:init():669] starting backend
+2024-11-12 16:10:03,172 INFO    Thread-8 (_run_job):97982 [wandb_init.py:init():673] sending inform_init request
+2024-11-12 16:10:03,175 INFO    Thread-8 (_run_job):97982 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-11-12 16:10:03,176 INFO    Thread-8 (_run_job):97982 [wandb_init.py:init():686] backend started and connected
+2024-11-12 16:10:03,182 INFO    Thread-8 (_run_job):97982 [wandb_run.py:_config_callback():1389] config_cb None None {'alpha': 0.01, 'hidden_layer_sizes': [100, 50], 'learning_rate': 'invscaling', 'learning_rate_init': 0.0001}
+2024-11-12 16:10:03,183 INFO    Thread-8 (_run_job):97982 [wandb_run.py:_label_probe_notebook():1341] probe notebook
+2024-11-12 16:10:03,183 INFO    Thread-8 (_run_job):97982 [wandb_init.py:init():781] updated telemetry
+2024-11-12 16:10:03,219 INFO    Thread-8 (_run_job):97982 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-12 16:10:03,422 INFO    Thread-8 (_run_job):97982 [wandb_init.py:init():867] starting run threads in backend
+2024-11-12 16:10:03,480 INFO    Thread-8 (_run_job):97982 [wandb_run.py:_console_start():2451] atexit reg
+2024-11-12 16:10:03,480 INFO    Thread-8 (_run_job):97982 [wandb_run.py:_redirect():2299] redirect: wrap_raw
+2024-11-12 16:10:03,481 INFO    Thread-8 (_run_job):97982 [wandb_run.py:_redirect():2364] Wrapping output streams.
+2024-11-12 16:10:03,481 INFO    Thread-8 (_run_job):97982 [wandb_run.py:_redirect():2389] Redirects installed.
+2024-11-12 16:10:03,481 INFO    Thread-8 (_run_job):97982 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-12 16:17:54,382 INFO    Thread-8 (_run_job):97982 [wandb_run.py:_finish():2146] finishing run ablaze/New york/l9aocukp
+2024-11-12 16:17:54,383 ERROR   Thread-8 (_run_job):97982 [jupyter.py:save_history():451] Run pip install nbformat to save notebook history
+2024-11-12 16:17:54,383 INFO    Thread-8 (_run_job):97982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-12 16:17:54,383 INFO    Thread-8 (_run_job):97982 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2024-11-12 16:17:54,384 INFO    Thread-8 (_run_job):97982 [wandb_run.py:_atexit_cleanup():2414] got exitcode: 0
+2024-11-12 16:17:54,384 INFO    Thread-8 (_run_job):97982 [wandb_run.py:_restore():2396] restore
+2024-11-12 16:17:54,384 INFO    Thread-8 (_run_job):97982 [wandb_run.py:_restore():2402] restore done
+2024-11-12 16:17:57,594 INFO    Thread-8 (_run_job):97982 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2024-11-12 16:17:57,595 INFO    Thread-8 (_run_job):97982 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2024-11-12 16:17:57,604 INFO    Thread-8 (_run_job):97982 [wandb_run.py:_footer_sync_info():3922] logging synced files
+2024-11-12 16:17:59,875 INFO    Thread-11 (_run_job):97982 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2024-11-12 16:17:59,876 INFO    Thread-11 (_run_job):97982 [wandb_setup.py:_flush():79] Configure stats pid to 97982
+2024-11-12 16:17:59,876 INFO    Thread-11 (_run_job):97982 [wandb_setup.py:_flush():79] Loading settings from /Users/jiadams/.config/wandb/settings
+2024-11-12 16:17:59,876 INFO    Thread-11 (_run_job):97982 [wandb_setup.py:_flush():79] Loading settings from /Users/jiadams/nyairbnb/src/wandb/settings
+2024-11-12 16:17:59,876 INFO    Thread-11 (_run_job):97982 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'New york', 'entity': 'ablaze', 'root_dir': '/Users/jiadams/nyairbnb/src', 'run_id': '15nrkqim', 'sweep_param_path': '/Users/jiadams/nyairbnb/src/wandb/sweep-dbn5ruk3/config-15nrkqim.yaml', 'sweep_id': 'dbn5ruk3'}
+2024-11-12 16:17:59,876 INFO    Thread-11 (_run_job):97982 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-12 16:17:59,876 INFO    Thread-11 (_run_job):97982 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-12 16:17:59,876 INFO    Thread-11 (_run_job):97982 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-12 16:17:59,876 INFO    Thread-11 (_run_job):97982 [wandb_init.py:_log_setup():533] Logging user logs to /Users/jiadams/nyairbnb/src/wandb/run-20241112_161759-15nrkqim/logs/debug.log
+2024-11-12 16:17:59,876 INFO    Thread-11 (_run_job):97982 [wandb_init.py:_log_setup():534] Logging internal logs to /Users/jiadams/nyairbnb/src/wandb/run-20241112_161759-15nrkqim/logs/debug-internal.log
+2024-11-12 16:17:59,876 INFO    Thread-11 (_run_job):97982 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x1255f4290>
+2024-11-12 16:17:59,876 INFO    Thread-11 (_run_job):97982 [wandb_init.py:init():619] calling init triggers
+2024-11-12 16:17:59,877 INFO    Thread-11 (_run_job):97982 [wandb_init.py:init():626] wandb.init called with sweep_config: {'alpha': 0.001, 'hidden_layer_sizes': [100, 50], 'learning_rate': 'adaptive', 'learning_rate_init': 0.0001}
+config: {}
+2024-11-12 16:17:59,877 INFO    Thread-11 (_run_job):97982 [wandb_init.py:init():669] starting backend
+2024-11-12 16:17:59,877 INFO    Thread-11 (_run_job):97982 [wandb_init.py:init():673] sending inform_init request
+2024-11-12 16:17:59,880 INFO    Thread-11 (_run_job):97982 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-11-12 16:17:59,880 INFO    Thread-11 (_run_job):97982 [wandb_init.py:init():686] backend started and connected
+2024-11-12 16:17:59,886 INFO    Thread-11 (_run_job):97982 [wandb_run.py:_config_callback():1389] config_cb None None {'alpha': 0.001, 'hidden_layer_sizes': [100, 50], 'learning_rate': 'adaptive', 'learning_rate_init': 0.0001}
+2024-11-12 16:17:59,895 INFO    Thread-11 (_run_job):97982 [wandb_run.py:_label_probe_notebook():1341] probe notebook
+2024-11-12 16:17:59,896 INFO    Thread-11 (_run_job):97982 [wandb_init.py:init():781] updated telemetry
+2024-11-12 16:17:59,943 INFO    Thread-11 (_run_job):97982 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-12 16:18:00,297 INFO    Thread-11 (_run_job):97982 [wandb_init.py:init():867] starting run threads in backend
+2024-11-12 16:18:00,397 INFO    Thread-11 (_run_job):97982 [wandb_run.py:_console_start():2451] atexit reg
+2024-11-12 16:18:00,398 INFO    Thread-11 (_run_job):97982 [wandb_run.py:_redirect():2299] redirect: wrap_raw
+2024-11-12 16:18:00,398 INFO    Thread-11 (_run_job):97982 [wandb_run.py:_redirect():2364] Wrapping output streams.
+2024-11-12 16:18:00,398 INFO    Thread-11 (_run_job):97982 [wandb_run.py:_redirect():2389] Redirects installed.
+2024-11-12 16:18:00,398 INFO    Thread-11 (_run_job):97982 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-12 16:25:59,880 INFO    Thread-11 (_run_job):97982 [wandb_run.py:_finish():2146] finishing run ablaze/New york/15nrkqim
+2024-11-12 16:25:59,881 ERROR   Thread-11 (_run_job):97982 [jupyter.py:save_history():451] Run pip install nbformat to save notebook history
+2024-11-12 16:25:59,881 INFO    Thread-11 (_run_job):97982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-12 16:25:59,881 INFO    Thread-11 (_run_job):97982 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2024-11-12 16:25:59,882 INFO    Thread-11 (_run_job):97982 [wandb_run.py:_atexit_cleanup():2414] got exitcode: 0
+2024-11-12 16:25:59,882 INFO    Thread-11 (_run_job):97982 [wandb_run.py:_restore():2396] restore
+2024-11-12 16:25:59,882 INFO    Thread-11 (_run_job):97982 [wandb_run.py:_restore():2402] restore done
+2024-11-12 16:26:02,251 INFO    Thread-11 (_run_job):97982 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2024-11-12 16:26:02,252 INFO    Thread-11 (_run_job):97982 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2024-11-12 16:26:02,262 INFO    Thread-11 (_run_job):97982 [wandb_run.py:_footer_sync_info():3922] logging synced files
+2024-11-12 16:26:04,497 INFO    Thread-14 (_run_job):97982 [wandb_setup.py:_flush():79] Current SDK version is 0.18.6
+2024-11-12 16:26:04,498 INFO    Thread-14 (_run_job):97982 [wandb_setup.py:_flush():79] Configure stats pid to 97982
+2024-11-12 16:26:04,498 INFO    Thread-14 (_run_job):97982 [wandb_setup.py:_flush():79] Loading settings from /Users/jiadams/.config/wandb/settings
+2024-11-12 16:26:04,498 INFO    Thread-14 (_run_job):97982 [wandb_setup.py:_flush():79] Loading settings from /Users/jiadams/nyairbnb/src/wandb/settings
+2024-11-12 16:26:04,498 INFO    Thread-14 (_run_job):97982 [wandb_setup.py:_flush():79] Loading settings from environment variables: {'project': 'New york', 'entity': 'ablaze', 'root_dir': '/Users/jiadams/nyairbnb/src', 'run_id': '2bgn2f29', 'sweep_param_path': '/Users/jiadams/nyairbnb/src/wandb/sweep-dbn5ruk3/config-2bgn2f29.yaml', 'sweep_id': 'dbn5ruk3'}
+2024-11-12 16:26:04,498 INFO    Thread-14 (_run_job):97982 [wandb_setup.py:_flush():79] Applying setup settings: {'mode': None, '_disable_service': None}
+2024-11-12 16:26:04,498 INFO    Thread-14 (_run_job):97982 [wandb_setup.py:_flush():79] Inferring run settings from compute environment: {'program': '<python with no main file>'}
+2024-11-12 16:26:04,498 INFO    Thread-14 (_run_job):97982 [wandb_setup.py:_flush():79] Applying login settings: {}
+2024-11-12 16:26:04,499 INFO    Thread-14 (_run_job):97982 [wandb_init.py:_log_setup():533] Logging user logs to /Users/jiadams/nyairbnb/src/wandb/run-20241112_162604-2bgn2f29/logs/debug.log
+2024-11-12 16:26:04,499 INFO    Thread-14 (_run_job):97982 [wandb_init.py:_log_setup():534] Logging internal logs to /Users/jiadams/nyairbnb/src/wandb/run-20241112_162604-2bgn2f29/logs/debug-internal.log
+2024-11-12 16:26:04,499 INFO    Thread-14 (_run_job):97982 [wandb_init.py:_jupyter_setup():479] configuring jupyter hooks <wandb.sdk.wandb_init._WandbInit object at 0x125a4cfe0>
+2024-11-12 16:26:04,499 INFO    Thread-14 (_run_job):97982 [wandb_init.py:init():619] calling init triggers
+2024-11-12 16:26:04,499 INFO    Thread-14 (_run_job):97982 [wandb_init.py:init():626] wandb.init called with sweep_config: {'alpha': 0.001, 'hidden_layer_sizes': [50, 50, 25], 'learning_rate': 'invscaling', 'learning_rate_init': 0.0001}
+config: {}
+2024-11-12 16:26:04,499 INFO    Thread-14 (_run_job):97982 [wandb_init.py:init():669] starting backend
+2024-11-12 16:26:04,499 INFO    Thread-14 (_run_job):97982 [wandb_init.py:init():673] sending inform_init request
+2024-11-12 16:26:04,503 INFO    Thread-14 (_run_job):97982 [backend.py:_multiprocessing_setup():104] multiprocessing start_methods=spawn,fork,forkserver, using: spawn
+2024-11-12 16:26:04,504 INFO    Thread-14 (_run_job):97982 [wandb_init.py:init():686] backend started and connected
+2024-11-12 16:26:04,511 INFO    Thread-14 (_run_job):97982 [wandb_run.py:_config_callback():1389] config_cb None None {'alpha': 0.001, 'hidden_layer_sizes': [50, 50, 25], 'learning_rate': 'invscaling', 'learning_rate_init': 0.0001}
+2024-11-12 16:26:04,521 INFO    Thread-14 (_run_job):97982 [wandb_run.py:_label_probe_notebook():1341] probe notebook
+2024-11-12 16:26:04,522 INFO    Thread-14 (_run_job):97982 [wandb_init.py:init():781] updated telemetry
+2024-11-12 16:26:04,569 INFO    Thread-14 (_run_job):97982 [wandb_init.py:init():814] communicating run to backend with 90.0 second timeout
+2024-11-12 16:26:04,844 INFO    Thread-14 (_run_job):97982 [wandb_init.py:init():867] starting run threads in backend
+2024-11-12 16:26:04,930 INFO    Thread-14 (_run_job):97982 [wandb_run.py:_console_start():2451] atexit reg
+2024-11-12 16:26:04,930 INFO    Thread-14 (_run_job):97982 [wandb_run.py:_redirect():2299] redirect: wrap_raw
+2024-11-12 16:26:04,930 INFO    Thread-14 (_run_job):97982 [wandb_run.py:_redirect():2364] Wrapping output streams.
+2024-11-12 16:26:04,930 INFO    Thread-14 (_run_job):97982 [wandb_run.py:_redirect():2389] Redirects installed.
+2024-11-12 16:26:04,931 INFO    Thread-14 (_run_job):97982 [wandb_init.py:init():911] run started, returning control to user process
+2024-11-12 16:26:11,522 INFO    MainThread:97982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-12 16:26:11,522 INFO    MainThread:97982 [wandb_init.py:_pause_backend():444] pausing backend
+2024-11-12 16:26:12,382 INFO    Thread-14 (_run_job):97982 [wandb_run.py:_finish():2146] finishing run ablaze/New york/2bgn2f29
+2024-11-12 16:26:12,383 ERROR   Thread-14 (_run_job):97982 [jupyter.py:save_history():451] Run pip install nbformat to save notebook history
+2024-11-12 16:26:12,383 INFO    Thread-14 (_run_job):97982 [jupyter.py:save_ipynb():387] not saving jupyter notebook
+2024-11-12 16:26:12,383 INFO    Thread-14 (_run_job):97982 [wandb_init.py:_jupyter_teardown():461] cleaning up jupyter logic
+2024-11-12 16:26:12,383 INFO    Thread-14 (_run_job):97982 [wandb_run.py:_atexit_cleanup():2414] got exitcode: 1
+2024-11-12 16:26:12,383 INFO    Thread-14 (_run_job):97982 [wandb_run.py:_restore():2396] restore
+2024-11-12 16:26:12,383 INFO    Thread-14 (_run_job):97982 [wandb_run.py:_restore():2402] restore done
+2024-11-12 16:26:15,271 INFO    Thread-14 (_run_job):97982 [wandb_run.py:_footer_history_summary_info():3963] rendering history
+2024-11-12 16:26:15,271 INFO    Thread-14 (_run_job):97982 [wandb_run.py:_footer_history_summary_info():3995] rendering summary
+2024-11-12 16:26:15,280 INFO    Thread-14 (_run_job):97982 [wandb_run.py:_footer_sync_info():3922] logging synced files

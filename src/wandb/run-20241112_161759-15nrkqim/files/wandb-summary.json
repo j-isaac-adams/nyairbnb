@@ -1,0 +1,1 @@
+{"hidden_layer_sizes":[100,50],"learning_rate":"adaptive","_wandb":{"runtime":480},"mean_squared_error":8745.67579079462,"_runtime":479.999383,"test_score":0.4749790125810486,"learning_rate_init":0.0001,"alpha":0.001,"_step":0,"_timestamp":1.731446759880141e+09}

@@ -1,0 +1,12 @@
+wandb_version: 1
+
+alpha:
+  value: 0.001
+hidden_layer_sizes:
+  value:
+  - 100
+  - 50
+learning_rate:
+  value: adaptive
+learning_rate_init:
+  value: 0.0001

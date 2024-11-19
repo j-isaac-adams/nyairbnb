@@ -1,0 +1,1 @@
+{"_runtime":471.206355,"_wandb":{"runtime":471},"test_score":0.4690227942419001,"learning_rate_init":0.0001,"hidden_layer_sizes":[100,50],"_step":0,"_timestamp":1.731446274382292e+09,"alpha":0.01,"mean_squared_error":8844.89307121128,"learning_rate":"invscaling"}

@@ -1,0 +1,3 @@
+Create sweep with ID: dbn5ruk3
+Sweep URL: https://wandb.ai/ablaze/New%20york/sweeps/dbn5ruk3
+[34m[1mwandb[0m: [33mWARNING[0m Calling wandb.login() after wandb.init() has no effect.

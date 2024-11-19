@@ -1,0 +1,38 @@
+{
+  "os": "macOS-15.0-arm64-arm-64bit",
+  "python": "3.12.7",
+  "startedAt": "2024-11-12T21:26:04.504436Z",
+  "program": "/Users/jiadams/nyairbnb/src/airbnb.ipynb",
+  "git": {
+    "remote": "https://github.com/j-isaac-adams/nyairbnb.git",
+    "commit": "e2af4f58c7396f7a3030a8598442081c37c62d22"
+  },
+  "email": "Augustpallesen@gmail.com",
+  "root": "/Users/jiadams/nyairbnb/src",
+  "host": "Isaacs-MacBook-Pro-8.local",
+  "username": "jiadams",
+  "executable": "/usr/local/bin/python3",
+  "codePathLocal": "airbnb.ipynb",
+  "cpu_count": 10,
+  "cpu_count_logical": 10,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "207320883200"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 10,
+    "countLogical": 10
+  },
+  "apple": {
+    "name": "Apple M2 Pro",
+    "ecpuCores": 4,
+    "pcpuCores": 6,
+    "gpuCores": 16,
+    "memoryGb": 16
+  }
+}
